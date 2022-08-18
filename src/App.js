@@ -22,7 +22,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            My Test
+            Sample React App
           </a>
         </header>
       </div>
